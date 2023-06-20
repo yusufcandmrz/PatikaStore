@@ -1,5 +1,4 @@
 # PatikaStore
-
 Soru:
 
 Patikamız artık ürün satacakmış. Senin de tasarım konusunda yardım etmen gerek.
