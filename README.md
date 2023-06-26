@@ -1,4 +1,4 @@
-# PatikaStore
+# Patika Store
 
 Soru:
 
