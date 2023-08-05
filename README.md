@@ -8,8 +8,6 @@ Bir arama çubuğu ve tasarımdaki gibi bir ürün listelenmesi yapman lazım. A
 
 Listeleme işlemi için FlatList kullanman gerek. Ekrandaki gibi iki sütunluk görünüm için birazcık dökümana göz atabilirsin.
 
-Kullanacağın JSON datası da aşağıda mevcut
-
 Kolaylıklar :)
 
 ## Ekran Görüntüleri
